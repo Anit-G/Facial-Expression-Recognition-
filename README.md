@@ -1,0 +1,2 @@
+# Facial-Expression-Recognition-
+Using the FER2013 dataset of facial expressions with the following categories: {0:'Angry', 1:'Disgust', 2:'Fear', 3:'Happy', 4:'Sad', 5:'Surprise', 6:'Neutral'}  Train a CNN model on the dataset then further use the transfer learning model with VGG19 as a base and train that as well on the dataset Save the models and then predict using a test image on both models to see which is better suited for the task.
